@@ -1,6 +1,6 @@
 name: Ole Petter Rust Photography
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.5750917023979127
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#5C6B73'
     - '#253237'
   brandStrength: 0
-  lightness: 0.31027804175391793
+  lightness: 0.625
   saturation: 0.843431374290958
-  rhythmicContrast: 0
+  rhythmicContrast: 0.25
 purpose: []
