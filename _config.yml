@@ -1,20 +1,4 @@
-name: Ole Petter Rust Photography
-favicon: null
-layout_spectrum: 0.93217
 typography_spectrum: 0.10222
-title: InSpiritPhoto
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -26,4 +10,20 @@ color:
   lightness: 0.625
   saturation: 0.843431374290958
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.93217
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Ole Petter Rust Photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: InSpiritPhoto
 purpose: []
